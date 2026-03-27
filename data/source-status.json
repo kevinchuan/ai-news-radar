@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-03-27T17:51:40.310036Z",
+  "generated_at": "2026-03-27T18:56:52.727322Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 479,
+      "duration_ms": 398,
       "error": null
     },
     {
@@ -14,15 +14,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 365,
+      "duration_ms": 318,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 350,
-      "duration_ms": 10814,
+      "item_count": 351,
+      "duration_ms": 10355,
       "error": null
     },
     {
@@ -30,15 +30,15 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 88,
-      "duration_ms": 2109,
+      "duration_ms": 8159,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3021,
-      "duration_ms": 2170,
+      "item_count": 3020,
+      "duration_ms": 1546,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Zeli",
       "ok": true,
       "item_count": 72,
-      "duration_ms": 594,
+      "duration_ms": 650,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 278,
+      "duration_ms": 239,
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1496,
+      "duration_ms": 1337,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "AI今日热榜",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 33,
+      "duration_ms": 55,
       "error": "403 Client Error: Forbidden for url: https://aihot.today/"
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 142,
-      "duration_ms": 455,
+      "duration_ms": 502,
       "error": null
     }
   ],
@@ -88,8 +88,8 @@
   ],
   "zero_item_sites": [],
   "fetched_raw_items": 4843,
-  "items_before_topic_filter": 8154,
-  "items_in_24h": 928,
+  "items_before_topic_filter": 8044,
+  "items_in_24h": 903,
   "rss_opml": {
     "enabled": false,
     "path": null,
