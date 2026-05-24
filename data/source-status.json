@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-24T17:06:07.562834Z",
+  "generated_at": "2026-05-24T18:38:43.201495Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 227,
-      "duration_ms": 2425,
+      "duration_ms": 8187,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 296,
+      "duration_ms": 221,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 19,
-      "duration_ms": 157,
+      "duration_ms": 90,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 410,
+      "duration_ms": 324,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 324,
+      "duration_ms": 421,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Info Flow",
       "ok": true,
       "item_count": 364,
-      "duration_ms": 11132,
+      "duration_ms": 10572,
       "error": null
     },
     {
@@ -54,23 +54,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 604,
+      "duration_ms": 2401,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 2850,
-      "duration_ms": 1407,
+      "item_count": 3038,
+      "duration_ms": 1459,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 52,
-      "duration_ms": 418,
+      "item_count": 49,
+      "duration_ms": 563,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 263,
+      "duration_ms": 375,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 932,
+      "duration_ms": 1041,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AI HOT",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1822,
+      "duration_ms": 1616,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 146,
-      "duration_ms": 366,
+      "duration_ms": 468,
       "error": null
     },
     {
@@ -111,7 +111,7 @@
       "ok": true,
       "partial_failures": 1,
       "item_count": 65,
-      "duration_ms": 4050,
+      "duration_ms": 4027,
       "error": "1 feeds failed",
       "feed_count": 6,
       "effective_feed_count": 6,
@@ -124,9 +124,9 @@
   "successful_sites": 14,
   "failed_sites": [],
   "zero_item_sites": [],
-  "fetched_raw_items": 4962,
-  "items_before_topic_filter": 4705,
-  "items_in_24h": 359,
+  "fetched_raw_items": 5147,
+  "items_before_topic_filter": 4772,
+  "items_in_24h": 355,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -151,7 +151,7 @@
         "effective_feed_url": "https://36kr.com/feed",
         "ok": true,
         "item_count": 30,
-        "duration_ms": 1790,
+        "duration_ms": 1453,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -165,7 +165,7 @@
         "effective_feed_url": "https://musically.com/feed/",
         "ok": true,
         "item_count": 15,
-        "duration_ms": 47,
+        "duration_ms": 115,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -179,7 +179,7 @@
         "effective_feed_url": "https://www.musicbusinessworldwide.com/category/ai/feed/",
         "ok": true,
         "item_count": 0,
-        "duration_ms": 286,
+        "duration_ms": 198,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -193,7 +193,7 @@
         "effective_feed_url": "https://www.qbitai.com/feed",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 1620,
+        "duration_ms": 1916,
         "error": "403 Client Error: Forbidden for url: https://www.qbitai.com/feed",
         "skipped": false,
         "skip_reason": null,
@@ -207,7 +207,7 @@
         "effective_feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 24,
+        "duration_ms": 181,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -221,7 +221,7 @@
         "effective_feed_url": "http://export.arxiv.org/rss/cs.SD",
         "ok": true,
         "item_count": 0,
-        "duration_ms": 283,
+        "duration_ms": 164,
         "error": null,
         "skipped": false,
         "skip_reason": null,
