@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T16:15:54.408368Z",
+  "generated_at": "2026-06-21T18:05:51.827442Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-21",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-06-21",
@@ -14,7 +14,12 @@
     },
     {
       "date": "2026-06-21",
-      "title": "《https://waytoagi.feishu.cn/wiki/JeyDweSQbisuAOkKgeccNfKHnAd?from=from_copylink",
+      "title": "本周精选的十篇顶级论文，覆盖空间视觉推理、技能调度、电脑操作智能体、强化学习、长期记忆、网页自动化与金融数据集多个关键方向。文中提炼了每项工作的核心创新、实测性能提升与落地意义，带你一站式梳理前沿突破。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "在目前主流的Agent Harness中，更多使用的还是SubAgent的方式，或者说Agent As Tool，而不是古典Multi Agent的那种对等Agent范式。本篇文章梳理了主流Agent Harness的实现对比，给搭建Agent系统的开发者提供了清晰的选型参考。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -23,7 +28,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 31,
+  "count_7d": 32,
   "updates_7d": [
     {
       "date": "2026-06-21",
@@ -32,7 +37,12 @@
     },
     {
       "date": "2026-06-21",
-      "title": "《https://waytoagi.feishu.cn/wiki/JeyDweSQbisuAOkKgeccNfKHnAd?from=from_copylink",
+      "title": "本周精选的十篇顶级论文，覆盖空间视觉推理、技能调度、电脑操作智能体、强化学习、长期记忆、网页自动化与金融数据集多个关键方向。文中提炼了每项工作的核心创新、实测性能提升与落地意义，带你一站式梳理前沿突破。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "在目前主流的Agent Harness中，更多使用的还是SubAgent的方式，或者说Agent As Tool，而不是古典Multi Agent的那种对等Agent范式。本篇文章梳理了主流Agent Harness的实现对比，给搭建Agent系统的开发者提供了清晰的选型参考。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
